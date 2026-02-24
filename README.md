@@ -1,4 +1,4 @@
-# UCSF AI DAY — Brightfield Amyloid Segmentation & Classification Pipeline
+# Brightfield Amyloid Segmentation & Classification Pipeline
 
 ## Pipeline Overview
 
