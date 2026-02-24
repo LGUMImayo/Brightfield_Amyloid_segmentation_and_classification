@@ -1,0 +1,9 @@
+{
+  "model_path": "/fslustre/qhs/ext_chen_yuheng_mayo_edu/RO1_CNN/RO1_Amyloid_testing/log_thick_edge/checkpoint-epoch=56-val_loss=0.25.ckpt",
+  "pred_data_dir": "/fslustre/qhs/ext_chen_yuheng_mayo_edu/RO1_GCP/Pipeline2/RO1_Amyloid/",
+  "save_path": "dynamic",
+  "labels": [0, 255],
+  "pred_patch_size": [64, 64],
+  "binary_preds": true,
+  "frg_class": 255
+}
