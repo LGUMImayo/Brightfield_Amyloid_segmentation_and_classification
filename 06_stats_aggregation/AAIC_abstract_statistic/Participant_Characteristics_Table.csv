@@ -1,0 +1,23 @@
+Characteristic,Clinical AD,Control (Braak 0),Test Statistic,p value
+N,31,19,-,-
+"Age (years), Mean (SD)",74.3 (12.8),58.7 (14.0),t=3.933,<0.001
+Sex (M/F),13/18,10/9,chi2=0.197,0.657
+"Braak stage, Mean (SD)",5.2 (1.2),0.0 (0.0),U=589.0,<0.001
+  Braak Stage 0 (%),0 (0.0%),19 (100.0%),-,-
+  Braak Stage 1 (%),0 (0.0%),0 (0.0%),-,-
+  Braak Stage 2 (%),2 (6.5%),0 (0.0%),-,-
+  Braak Stage 3 (%),2 (6.5%),0 (0.0%),-,-
+  Braak Stage 4 (%),3 (9.7%),0 (0.0%),-,-
+  Braak Stage 5 (%),5 (16.1%),0 (0.0%),-,-
+  Braak Stage 6 (%),19 (61.3%),0 (0.0%),-,-
+"Thal phase, Mean (SD)",4.3 (1.3),0.3 (0.6),U=574.5,<0.001
+  Thal Phase 0 (%),1 (3.2%),15 (78.9%),-,-
+  Thal Phase 1 (%),1 (3.2%),3 (15.8%),-,-
+  Thal Phase 2 (%),1 (3.2%),1 (5.3%),-,-
+  Thal Phase 3 (%),4 (12.9%),0 (0.0%),-,-
+  Thal Phase 4 (%),3 (9.7%),0 (0.0%),-,-
+  Thal Phase 5 (%),21 (67.7%),0 (0.0%),-,-
+Race (Caucasian %),29 (93.5%),18 (94.7%),-,-
+Family History (Yes %),11 (35.5%),8 (42.1%),chi2=0.028,0.867
+TDP-43 Pathology (%),8 (25.8%),3 (15.8%),chi2=0.229,0.632
+Lewy Body Pathology (%),12 (38.7%),2 (10.5%),chi2=3.349,0.067

@@ -1,0 +1,78 @@
+NPID,Age,Sex,Race,ClinicalDx,PathDx,Braak stage,Thal phase
+NA00-118,81,F,Caucasian,AD familial,"DLBD/PA (EIF4G1 R1197W, G686C)",3,5
+NA01-161,66,M,Caucasian,AD,DLBD/PA (EIF4G1 A502V),2,3
+NA02-277,48,F,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,0
+NA03-222,85,F,Caucasian,AD,AD/CAA/VaD,6,5
+NA04-001,75,F,Caucasian,DLB,"AD/DLBD/VaD (GRN c.415T>C, p.C139R)",6,5
+NA04-191,77,M,Caucasian,AD,AD,6,4
+NA04-240,66,M,Caucasian,AD,AD,6,5
+NA05-111,73,M,Caucasian,AD,AD (MAPT I260M),6,4
+NA05-200,49,M,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,0
+NA06-239,37,F,Caucasian,"AD, familial",AD/CST degen (PSEN1 p.N135S)/ALB,6,5
+NA07-121,65,F,Caucasian,FTD,AD/HpScl vs. FTLD-TDP (C9ORF72),5,5
+NA07-144,71,M,Caucasian,AD,AD (HpSp)/cbl dysgenesis,6,5
+NA07-278,78,M,Caucasian,AD,AD,6,5
+NA08-013,61,F,Caucasian,FTD v PiD,FTLD-MND/AD/CVA (C9ORF72),6,5
+NA08-089,73,F,Caucasian,AD & CAA,amyloidosis (G53R TTR) /CAA/ependymitis/HpScl (epilepsy),2,1
+NA09-034,81,F,Caucasian,AD,AD (posterior)/lacune,6,5
+NA09-404,77,F,Caucasian,PD,TLBD/SC,3,1
+NA10-204,79,M,Caucasian,FTD v DLB (FHx bipolar),AD (TDP neg Hp),6,5
+NA10-268,53,F,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,1
+NA10-417,89,M,Caucasian,DLB familial,"TLBD/PA (EIF4G1 R1197W, G686C)",4,2
+NA11-048,68,M,Caucasian,FTD v PNFA,AD,6,5
+NA11-386,84,F,Other,PDC,"AD, early/ALB/SN degen (PDC?)/VaD (PINK1 p.L347P (homo) & DNAJC13 variant)",4,5
+NA11-396,76,F,Caucasian,DLB,AD/CAA/lobar hematoma/VaD,5,5
+NA11-426,77,M,Caucasian,AD v DLB (bapineuzumab),AD/DLBD (bapineuzumab),6,5
+NA11-496,85,F,Caucasian,AD,"TLBD/AD, early",4,3
+NA12-016,70,F,Caucasian,AD v NPH (s/p VPS),AD (HpSp)/CAA/band & nodular heterotopia (with ATP)/striatal gliosis/(s/p VPS),5,5
+NA12-210,74,F,Caucasian,PSP,"CBD/AD, atypical (HpSp & PCA)/CAA",6,4
+NA12-247,93,F,Caucasian,AD,AD (limbic)/VaD/arachnoid cyst/melanosis cerebelli,5,5
+NA12-253,86,M,Caucasian,AD,AD (limbic)/VaD,5,5
+NA12-396,76,F,Caucasian,AD,AD/ALB,6,5
+NA12-420,67,M,Caucasian,"AD, familial","AD, atypical (HpSp)/CAA/DLBD  (MAPT A152T) (TREM2 R47H)",5,3
+NA13-021,56,M,Caucasian,DLB,AD (posterior),6,5
+NA13-057,68,M,Caucasian,FTD (familial),"AD, early/leukoencephalopathy spheroids (negative for CSF1R, not HDLS)",4,3
+NA13-202,66,F,Caucasian,FTDP-17 (R406W),FTDP-17 (MAPT R406W)/NFT dementia,5,0
+NA13-210,87,F,Caucasian,AD,AD (posterior)/ASCVD,6,5
+NA13-355,64,M,Caucasian,AD,AD,6,5
+NA14-071,79,F,Afro-American,AD,"AD, severe/leuko (severe)/ALB",6,5
+NA14-161,65,F,Caucasian,AD/depression,AD,6,5
+NA16-035,90,F,Caucasian,AD,AD/CAA,5,5
+NA16-125,83,F,Caucasian,progressive bulbar palsy,GGT (revised: FTLD (minimal TDP)/striatal gliosis/PLS-like),2,4
+NA16-323,88,M,Caucasian,(no Hx),AD/CAA,6,4
+NA17-378,90,M,Caucasian,AD,AD (limbic)/ALB (v ILBD)/leuko,4,3
+NA18-181,80,F,Caucasian,PPA (logopenic),AD (HpSp)/CWP/CAA,5,5
+NA18-314,58,F,Caucasian,FTD v DLB,AD,6,5
+NA18-381,87,M,Caucasian,DLB,AD,5,5
+NA19-041,72,F,Caucasian,acute ICH/depression,AD/CAA/lobar hematoma/heterotopia,5,5
+NA19-100,95,F,Caucasian,AD (questionnaire),"CAA (severe)/PA v AD, early/VaD (minimal)/BLBD/TDP, limbic",4,2
+NA19-207,60,M,Caucasian,FTD-MND v AD,FTLD-MND/amyg scl/Kluver-Bucy/PART,3,0
+NA19-218,65,F,Caucasian,MSA-P,BLBD/SC/leuko,0,1
+NA19-220,67,F,Caucasian,ICH/SAH,VZV vasculities meningoencephalitis/CVA/SAH/CAA,2,0
+NA19-295,85,M,Caucasian,CAA (familial),CAA/PA/VaD/hematoma/siderosis,2,2
+NA20-159,93,M,Caucasian,PSP,PSP/SC/CAA/VaD,3,3
+NA20-273,37,M,Caucasian,Aspergers/MTS/autoimmune,"AD/CAA (PSEN1 c.617G>T,  p.G206V)",6,5
+NA20-441,67,F,Caucasian,bvFTD,FTLD-TDP (Type E)/minimal MND (Bunina),0,0
+NA20-452,62,M,Caucasian,FTD (familial),FTDP-17 ((MAPT c.902C>T p.P301L) (original FTLD-tau),0,0
+NA20-459,71,M,Caucasian,CVA (hemorrhage),AD/CAA(perivasc neuritic)/lobar hematoma/herniation/Duret/anoxia,5,4
+NA20-486,76,F,Caucasian,HSV encephalitis (COVID-19),HSVE (chronic)/PA,0,2
+NA20-488,57,F,Caucasian,MSA,MSA (SND>OPCA)/ASCVD/leuko,0,0
+NA21-004,59,M,Caucasian,FTD v psychotic depression,Normal (pseudo-dementia),0,0
+NA21-084,74,M,Hispanic,FTD/SD,FTLD-TDP (severe temporal and striatopallidal path),0,1
+NA21-086,63,F,Caucasian,EOAD (PSEN1)/depression,"AD/CAA (PSEN1 c.725C>A,  p.Pro242His)",6,5
+NA21-160,53,M,Caucasian,MSA-P (s/p DBS),MSA (SND>OPCA)/DBS (Rosenthal),0,0
+NA21-204,79,M,Caucasian,depression (ECT/VNS)/PD,"Normal (pseudo-dementia, drug-related parkinsonism)/AGD (mild)/ARTAG",0,0
+NA21-386,73,M,Caucasian,ALS/FTD,FTLD-MND/SubScl,0,0
+NA21-402,48,F,Caucasian,PSEN1/CAA/epilepsy,AD (PSEN1 - unknown)/CAA(perivasc neuritic)/herniation/Duret/anoxia,5,4
+NA21-450,70,M,Caucasian,PD,BLBD/ASCVD/leuko,0,0
+NA22-060,49,M,Caucasian,cirrhosis/Subdural,brain hernation due to acute SDH,0,0
+NA22-130,71,F,Hispanic,AD/VaD,AD/DLBD/VaD (Binswanger),6,5
+NA22-251,75,F,Caucasian,depressive pseudo-dementia/rapidly progressive,AD/CAA/coarse grain plaques/leuko,5,5
+NA22-255,49,F,Caucasian,ALS,ALS,0,0
+NA23-060,72,M,Caucasian,RPD (encephalitis),"CAA, severe/VaD (many MI's)/NFTD (atypical)",6,2
+NA23-106,67,M,Caucasian,MSA,MSA (OPCA),0,0
+NA23-121,79,M,Caucasian,AD,AD (NFT predominant),6,4
+NA23-168,21,F,Caucasian,brainstem glioma,central neurocytoma (midbrain-diencephalon) vs GBM,0,0
+NA23-298,45,F,Caucasian,HDLS (CSF1R p.Gly669Asp),HDLS (CSF1R C.2006G>A (p.Gly669Asp)),0,0
+NA24-002,46,F,Caucasian,EOAD,AD (CWP) (PSEN1 c.869-1 G>T),6,5
+NA24-188,72,F,Caucasian,AD (daughter of NA05-140) (Solanezumab),AD/DLBD/LATE/ASCVD/leuko (Solanezumab),6,5

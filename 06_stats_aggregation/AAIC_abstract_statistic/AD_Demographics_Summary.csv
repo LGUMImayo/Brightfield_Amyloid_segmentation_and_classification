@@ -1,0 +1,51 @@
+NPID,Cohort,Age,Sex,Race,ClinicalDx,PathDx,Braak stage,Thal phase,Available_Regions
+NA19-207,Clinical AD,60,M,Caucasian,FTD-MND v AD,FTLD-MND/amyg scl/Kluver-Bucy/PART,3,0,Cerebellar vermis; Medial frontal; Posterior Hippocampus
+NA02-277,Control (Braak 0),48,F,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,0,Posterior Hippocampus
+NA07-278,Clinical AD,78,M,Caucasian,AD,AD,6,5,Anterior hippocampus
+NA00-118,Clinical AD,81,F,Caucasian,AD familial,"DLBD/PA (EIF4G1 R1197W, G686C)",3,5,Medial frontal; Visual cortex
+NA01-161,Clinical AD,66,M,Caucasian,AD,DLBD/PA (EIF4G1 A502V),2,3,Medial frontal; Visual cortex
+NA03-222,Clinical AD,85,F,Caucasian,AD,AD/CAA/VaD,6,5,Posterior Hippocampus
+NA04-191,Clinical AD,77,M,Caucasian,AD,AD,6,4,Posterior Hippocampus; Subthalamic nucleus
+NA04-240,Clinical AD,66,M,Caucasian,AD,AD,6,5,Posterior Hippocampus
+NA05-111,Clinical AD,73,M,Caucasian,AD,AD (MAPT I260M),6,4,Anterior hippocampus
+NA05-200,Control (Braak 0),49,M,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,0,Posterior Hippocampus
+NA06-239,Clinical AD,37,F,Caucasian,"AD, familial",AD/CST degen (PSEN1 p.N135S)/ALB,6,5,Cerebellar vermis; Medial frontal; Posterior Hippocampus
+NA07-144,Clinical AD,71,M,Caucasian,AD,AD (HpSp)/cbl dysgenesis,6,5,Posterior Hippocampus
+NA08-089,Clinical AD,73,F,Caucasian,AD & CAA,amyloidosis (G53R TTR) /CAA/ependymitis/HpScl (epilepsy),2,1,Anterior hippocampus; Basal forebrain; Cerebellar vermis; Pons
+NA09-034,Clinical AD,81,F,Caucasian,AD,AD (posterior)/lacune,6,5,Posterior Hippocampus
+NA10-268,Control (Braak 0),53,F,Caucasian,PPND,FTDP-17 (PPND; MAPT N279K),0,1,Basal forebrain; Caudate/Putamen/Nucleus Accumbens; Motor cortex; Posterior Hippocampus
+NA11-426,Clinical AD,77,M,Caucasian,AD v DLB (bapineuzumab),AD/DLBD (bapineuzumab),6,5,Basal forebrain; Medial frontal; Posterior Hippocampus
+NA11-496,Clinical AD,85,F,Caucasian,AD,"TLBD/AD, early",4,3,Basal forebrain; Midbrain; Posterior Hippocampus; Superior temporal
+NA12-016,Clinical AD,70,F,Caucasian,AD v NPH (s/p VPS),AD (HpSp)/CAA/band & nodular heterotopia (with ATP)/striatal gliosis/(s/p VPS),5,5,Cingulate cortex and Superior Frontal
+NA12-247,Clinical AD,93,F,Caucasian,AD,AD (limbic)/VaD/arachnoid cyst/melanosis cerebelli,5,5,Posterior Hippocampus
+NA12-253,Clinical AD,86,M,Caucasian,AD,AD (limbic)/VaD,5,5,Posterior Hippocampus
+NA12-396,Clinical AD,76,F,Caucasian,AD,AD/ALB,6,5,Posterior Hippocampus
+NA12-420,Clinical AD,67,M,Caucasian,"AD, familial","AD, atypical (HpSp)/CAA/DLBD  (MAPT A152T) (TREM2 R47H)",5,3,Medial frontal
+NA13-210,Clinical AD,87,F,Caucasian,AD,AD (posterior)/ASCVD,6,5,Posterior Hippocampus
+NA13-355,Clinical AD,64,M,Caucasian,AD,AD,6,5,Anterior hippocampus
+NA14-071,Clinical AD,79,F,Afro-American,AD,"AD, severe/leuko (severe)/ALB",6,5,Posterior Hippocampus
+NA14-161,Clinical AD,65,F,Caucasian,AD/depression,AD,6,5,Posterior Hippocampus
+NA16-035,Clinical AD,90,F,Caucasian,AD,AD/CAA,5,5,Anterior hippocampus
+NA17-378,Clinical AD,90,M,Caucasian,AD,AD (limbic)/ALB (v ILBD)/leuko,4,3,
+NA19-100,Clinical AD,95,F,Caucasian,AD (questionnaire),"CAA (severe)/PA v AD, early/VaD (minimal)/BLBD/TDP, limbic",4,2,Basal forebrain; Posterior Hippocampus; Visual cortex
+NA19-218,Control (Braak 0),65,F,Caucasian,MSA-P,BLBD/SC/leuko,0,1,Medial frontal
+NA20-441,Control (Braak 0),67,F,Caucasian,bvFTD,FTLD-TDP (Type E)/minimal MND (Bunina),0,0,Cerebellar vermis; Motor cortex; Pons; Visual cortex
+NA20-452,Control (Braak 0),62,M,Caucasian,FTD (familial),FTDP-17 ((MAPT c.902C>T p.P301L) (original FTLD-tau),0,0,Pons
+NA20-486,Control (Braak 0),76,F,Caucasian,HSV encephalitis (COVID-19),HSVE (chronic)/PA,0,2,Pons; Visual cortex
+NA20-488,Control (Braak 0),57,F,Caucasian,MSA,MSA (SND>OPCA)/ASCVD/leuko,0,0,Medial frontal; Posterior Hippocampus; Visual cortex
+NA21-004,Control (Braak 0),59,M,Caucasian,FTD v psychotic depression,Normal (pseudo-dementia),0,0,Anterior hippocampus; Basal forebrain; Motor cortex; Subthalamic nucleus; Visual cortex
+NA21-084,Control (Braak 0),74,M,Hispanic,FTD/SD,FTLD-TDP (severe temporal and striatopallidal path),0,1,Motor cortex
+NA21-086,Clinical AD,63,F,Caucasian,EOAD (PSEN1)/depression,"AD/CAA (PSEN1 c.725C>A,  p.Pro242His)",6,5,Inferior parietal; Medial frontal
+NA21-160,Control (Braak 0),53,M,Caucasian,MSA-P (s/p DBS),MSA (SND>OPCA)/DBS (Rosenthal),0,0,Medial frontal
+NA21-204,Control (Braak 0),79,M,Caucasian,depression (ECT/VNS)/PD,"Normal (pseudo-dementia, drug-related parkinsonism)/AGD (mild)/ARTAG",0,0,Superior temporal
+NA21-386,Control (Braak 0),73,M,Caucasian,ALS/FTD,FTLD-MND/SubScl,0,0,Medial frontal; Motor cortex; Posterior Hippocampus
+NA21-450,Control (Braak 0),70,M,Caucasian,PD,BLBD/ASCVD/leuko,0,0,Anterior hippocampus; Pons; Visual cortex
+NA22-060,Control (Braak 0),49,M,Caucasian,cirrhosis/Subdural,brain hernation due to acute SDH,0,0,Visual cortex
+NA22-130,Clinical AD,71,F,Hispanic,AD/VaD,AD/DLBD/VaD (Binswanger),6,5,Medial frontal
+NA22-255,Control (Braak 0),49,F,Caucasian,ALS,ALS,0,0,Cerebellum; Posterior Hippocampus
+NA23-106,Control (Braak 0),67,M,Caucasian,MSA,MSA (OPCA),0,0,Medial frontal
+NA23-121,Clinical AD,79,M,Caucasian,AD,AD (NFT predominant),6,4,Basal forebrain; Inferior parietal; Medial frontal; Posterior Hippocampus; Superior temporal
+NA23-168,Control (Braak 0),21,F,Caucasian,brainstem glioma,central neurocytoma (midbrain-diencephalon) vs GBM,0,0,Anterior hippocampus; Midbrain; Subthalamic nucleus
+NA23-298,Control (Braak 0),45,F,Caucasian,HDLS (CSF1R p.Gly669Asp),HDLS (CSF1R C.2006G>A (p.Gly669Asp)),0,0,
+NA24-002,Clinical AD,46,F,Caucasian,EOAD,AD (CWP) (PSEN1 c.869-1 G>T),6,5,Caudate/Putamen/Nucleus Accumbens; Medial frontal; Posterior Hippocampus
+NA24-188,Clinical AD,72,F,Caucasian,AD (daughter of NA05-140) (Solanezumab),AD/DLBD/LATE/ASCVD/leuko (Solanezumab),6,5,Basal forebrain; Medial frontal; Posterior Hippocampus
